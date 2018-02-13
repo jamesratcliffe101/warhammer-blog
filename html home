@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="C:\Users\James\Desktop\my 1st website\css\home-screen.css">
+
+<html>
+   <head>
+     <title>the warhammer shop</title>
+   </head>
+   <body>
+
+      <header>
+        <p class="sub-header">a shop for all your buying needs</p>
+        <h1>2ND HAND <br />WARHAMMER</h1>
+      </header>
+      <nav>
+        <table border="0" class="table-header">
+          <tr>
+    <td>    <a href="www.google.com"><b>help</b><a>   </td>
+    <td>   <a href="www.google.com"><b>upcoming</b><a>   </td>
+    <td>   <a href="www.google.com"><b>out of stock</b><a>  </td>
+    <td> <a href="www.google.com"><b>gallery</b><a>    </td>
+        </tr>
+    </table>
+      </nav>
+      <table border="0" class="pic-table" width="100%">
+        <tr>
+          <td width=50%>
+      <div class="center">
+        <div class="pic-border">
+      <img src="C:\Users\James\Desktop\my 1st website\resources\gk_2_front-711618.jpg" alt="dark knight"  width="90%" height="150%">
+   <h3 class="under-image">a dark knight</h3>  </td>
+  <td width=15% class="top-table-left"><h2><font size="8">feedback</font></h2>
+    <hr width="335%">
+    <h2><font size="6">mr betty bottom</font></h2>
+    <img src="C:\Users\James\Desktop\my 1st website\resources\114472-200.png">
+
+     <hr width="150%">
+     <h2><font size="6">warhammer beast</font></h2>
+     <img src="C:\Users\James\Desktop\my 1st website\resources\img_427426.png" width="75%" height="20%">
+     <hr width="150%">
+     <h2><font size="6">david smith</font></h2>
+     <img src="C:\Users\James\Desktop\my 1st website\resources\114472-200.png">
+     <hr width="335%"/>
+
+</td width="35">
+<td class="top-table-lefter">
+  <p><br />i loved how you made the moddle so detailed and good.
+  i also love the way you shaded you figure. good work! you could
+add more colors into the figure however the it could look like a clown!
+what is the size of the figure in millimeters and how much will it cost?<br />
+<br /><br /><br />you figure look bad and outdated. your figure is too big
+and looks bulky. my advise is to get a 3d printer and make something good
+unlike this garbage. the colors are also all off. it should be dark blue
+not this stupid color.<br /><br /><br /><br /><br />wow i wish i could make
+figures as good as you. i dont know and one who can make this stuff and i
+really want to know how. i cant see any figure that are bad the slightest
+ bit. well done! </p>
+</td>
+
+</tr>
+</table border="1px">
+<table class="table-li">
+  <tr>
+    <td width="50%" class="td-gal">
+<h1>my gallery</h1>
+
+       </td>
+       <td width=50%>
+         <p>figures as good as you. i dont know and one who can make this stuff and i
+         really want to know how. i cant see any figure that are bad the slightest
+          bit. well done!<p>
+      </td>
+    </tr>
+  </table>
+  <div></div>
+      </div>
+      <main>
+        <div class="pic-border">
+    <img src="C:\Users\James\Desktop\my 1st website\resources\bd9d1122b60fe27ce8a2ade8125396cd--warhammer-fantasie-warhammer-figures.jpg" alt="war marine"width="60%" height="100%">
+    <h3 class="under-image">a large war marine</h3>
+  </div>
+  <table border="4" class="table-center">
+  <tr>
+     <th>opening times</th>
+     <th>open</th>
+     <th>closed</th>
+  </tr>
+  <tr>
+    <th>monday</th>
+    <td>open</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>tuesday</th>
+    <td>open</td>
+    <td></td>
+  </tr><tr>
+    <th>wednesday</th>
+    <td></td>
+    <td>closed</td>
+  </tr><tr>
+    <th>thursday</th>
+    <td></td>
+    <td>closed</td>
+  </tr><tr>
+    <th>friday</th>
+    <td></td>
+    <td>closed</td>
+  </tr><tr>
+    <th>saturday</th>
+    <td>open</td>
+    <td></td>
+  </tr><tr>
+    <th>sunday</th>
+    <td></td>
+    <td>closed</td>
+  </tr>
+</table>
+<div class="pic-border">
+<img src="C:\Users\James\Desktop\my 1st website\resources\331342e9421ae06a7a374ee7025237c8.jpg" alt="scorpian lady" width="60%" height="100%">
+<h3 class="under-image">my very own scorpian lady</h3>
+</div>
+<div class="paragraph">
+  <table border="5" class="tbp">
+    <tr><td>
+  <h3>my skills</h3>
+   <p>iv practised very much in my art. i took art in my colage<br /> degree and i took my self to a art course to practice<br />
+     There are 140 standard CSS Color names including common names<br /> like "red" and uncommon ones like "gainsboro". Although<br />
+      writing out "peachpuff" is not as concise as writing "#FFDAB9", I find<br /> spelled out color names more readable than rgb codes. The only problem <br />
+     is remembering names when it is time to write them. If you rarely<br /> use "palevioletred", it can be hard to remember its exact name.<p>
+    </td> </tr></table>
+   </div>
+    <ul>
+      <li><h4>3d printing</h4><progress min="0" max="100" value="80"></progress>
+      <li><h4>painting</h4><progress min="0" max="100" value="60"></progress>
+      <li><h4>modle making</h4><progress min="0" max+"100" value="95"></progress>
+    </ul>
+      </main>
+    </div>
+      <footer>
+        <table border="0" width="100%" height="20%">
+          <tr>
+            <td class="class">
+        <h3><a href="www.google.com">sign up</a></h3>
+      </td>
+         <td class="class">
+       <h3>© 2018 warhammer.com</h3>
+     </td>
+      <td class="class">
+      <h3><a href="www.google.com">sign in</a></h3>
+       </td>
+      </tr>
+      </table>
+     </footer>
+  </body>
